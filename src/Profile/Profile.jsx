@@ -4,9 +4,9 @@ const Profile = () => {
     return (
         <div>
             <img src="" alt="" />
-            <p></p>
-            <p></p>
-            <p></p>
+            <p>Serhii Klelha</p>
+            <p>serhiiklekha</p>
+            <p>London, England</p>
         </div>
     );
 };
