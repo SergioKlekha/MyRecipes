@@ -1,0 +1,25 @@
+.block {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.ifOnline {
+    color: green;
+}
+
+.ifOffline {
+    color: orangered;
+}
+
+
+.text {
+    text-align: center;
+}
+
+.status {
+    text-align: center;
+    font-size: 12px;
+}
